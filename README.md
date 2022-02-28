@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmrutaaChavvan
 - 👀 I’m interested in Recruitment
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Hiring for SDE
+- 💞️ I’m looking to collaborate on Hiring for Software Developers
 - 📫 How to reach me amrucha@lucidity.cloud
 
 <!---
